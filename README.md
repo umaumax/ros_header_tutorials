@@ -27,6 +27,10 @@ e.g.
 ${ros_header_tutorials_INCLUDE_DIRS}=~/catkin_ws/src/ros_header_tutorials/include
 ```
 
+## FYI
+* [Which is the correct way to install header files in catkin packages? \- ROS Answers: Open Source Q&A Forum]( https://answers.ros.org/question/65716/which-is-the-correct-way-to-install-header-files-in-catkin-packages/ )
+* [catkin/CMakeLists\.txt \- ROS Wiki]( http://wiki.ros.org/catkin/CMakeLists.txt )
+
 ----
 
 ## init command
